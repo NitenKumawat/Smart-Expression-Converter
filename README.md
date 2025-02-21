@@ -1,31 +1,68 @@
-<<<<<<< HEAD
-# Smart-Expression-Converter
+# Smart Expression Converter
 
-Smart Expression Converter is a powerful web application that allows users to convert mathematical expressions between different notations—Infix, Prefix, and Postfix. It also evaluates expressions for quick results. Whether you're a student, programmer, or math enthusiast, this tool makes expression handling seamless and efficient.
+A powerful and intuitive web application that allows users to convert mathematical expressions between Infix, Prefix, and Postfix notations. Additionally, it evaluates expressions to provide instant results.
 
-# Key Features:
-✅ Identify the type of mathematical expression (Infix, Prefix, or Postfix)
-✅ Convert expressions between different notations
-✅ Evaluate expressions instantly
-✅ User-friendly interface with a responsive design
+## Features
 
-# Tech Stack:
-🛠️ React + Vite, Tailwind CSS
+✅ Identify expression type (Infix, Prefix, Postfix)  
+✅ Convert between different notations  
+✅ Evaluate expressions accurately  
+✅ User-friendly UI with a responsive design  
+✅ Built with React, Tailwind CSS, and Vite  
 
-Would you like any modifications or additions? 😊
+## Demo
 
+[Live Demo](https://smart-expression-converter.vercel.app)
 
+## Installation
 
+Clone the repository and install dependencies:
 
+```sh
+ git clone https://github.com/NitenKumawat/Smart-Expression-Converter.git
+ cd Smart-Expression-Converter
+ npm install
+```
 
+## Usage
 
+Run the development server:
 
-# React + Vite
+```sh
+ npm run dev
+```
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
 
-Currently, two official plugins are available:
+## Deployment
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 7ee6b62 (first commit)
+To deploy the project on GitHub Pages, Vercel, or Netlify:
+
+```sh
+ npm run build
+```
+
+Then follow your preferred hosting platform's instructions.
+
+## Technologies Used
+
+- **React + Vite** - Frontend Framework  
+- **Tailwind CSS** - Styling  
+- **JavaScript** - Logic Handling  
+
+## Screenshots
+
+![Expression Converter Screenshot](https://raw.githubusercontent.com/NitenKumawat/Smart-Expression-Converter/main/screenshot.png)
+
+## Author
+
+👨‍💻 Developed by [Niten Kumawat](https://github.com/NitenKumawat)
+
+## License
+
+This project is licensed under the MIT License.
+
+## Links
+
+🔗 **GitHub Repository:** [Smart Expression Converter](https://github.com/NitenKumawat/Smart-Expression-Converter)  
+🔗 **Live Demo:** [smart-expression-converter.vercel.app](https://smart-expression-converter.vercel.app)
