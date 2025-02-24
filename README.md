@@ -50,9 +50,6 @@ Then follow your preferred hosting platform's instructions.
 - **Tailwind CSS** - Styling  
 - **JavaScript** - Logic Handling  
 
-## Screenshots
-
-![Expression Converter Screenshot](https://raw.githubusercontent.com/NitenKumawat/Smart-Expression-Converter/main/screenshot.png)
 
 ## Author
 
